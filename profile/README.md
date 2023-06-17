@@ -1,4 +1,4 @@
-![banner](../banner.png)
+![banner](https://raw.githubusercontent.com/AS-Devs/.github/main/banner.png)
 
 # AS Developers
 AS Developers is a non-profit organization dedicated to making the web and mobile platform more powerful for developers. We love open source software, and we believe that by creating better OSS plugins, we can make developers' lives easier and help them build more powerful apps.
@@ -22,7 +22,7 @@ We are always looking for new ways to improve the experience for developers. We 
 - Check Blog at [blog.asdevs.dev](https://blog.asdevs.dev/).
 - Github Profile [Github Profile](https://github.com/as-devs).
 
-[Code of Conduct](../CODE_OF_CONDUCT.md) | [Donate](https://pay.asdevs.dev)
+[Code of Conduct](CODE_OF_CONDUCT.md) | [Donate](https://pay.asdevs.dev)
 
 
 
